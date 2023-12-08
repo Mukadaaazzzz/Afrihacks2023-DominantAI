@@ -1,25 +1,22 @@
-# Afrihacks2023-DominantAI
-DominantAI is the Future of Healthcare 
+# Gennoceutic Biotech
+Welcome to Gennoceutic Biotech! We are dedicated to pioneering genomic innovation for empowering personalized healthcare solutions.
 
-# Dominant AI
+# About Us
+Gennoceutic Biotech focuses on integrating cutting-edge genomics with innovative technologies to revolutionize healthcare. Our mission is to deliver personalized health solutions driven by genomic insights.
 
-Dominant AI is an innovative project focused on harnessing the power of genetic dominance in precision medicine. Leveraging cutting-edge AI technology, Dominant AI aims to decode dominant genetic traits, guiding personalized healthcare interventions and revolutionizing the field of precision medicine.
+# Key Features
 
-## Project Overview
+Genomic Insights: Harnessing genomics to provide tailored healthcare solutions.
 
-At Dominant AI, our primary goal is to explore the influence of dominant genes in healthcare by employing advanced AI algorithms to analyze genetic data. By identifying and understanding dominant genetic markers linked to various health conditions, we aim to pave the way for more accurate and tailored precision medicine solutions.
+Innovative Solutions: Pioneering advancements in personalized health technology.
 
-## Key Features
+User-Centric Approach: Empowering individuals with personalized and precise healthcare interventions.
 
-- **Genomic Analysis**: Utilize AI-driven tools to analyze dominant genetic traits and their impact on health outcomes.
-- **Personalized Healthcare**: Tailor treatment plans based on individual genetic predispositions for more effective interventions.
-- **Predictive Insights**: Predict disease susceptibilities and genetic predispositions for better health management.
+# Contributing
+We welcome contributions from the community. Please check our Contribution Guidelines to get started.
 
+# Contact Us
+For inquiries, collaborations, or feedback, reach out to us at tmukadaz@gmail.com.
 
-## Contact Us
+This README provides a brief overview of Gennoceutic Biotech, its objectives, key features, and instructions on how to get started with exploring the project. Feel free to expand upon it by adding more specific details, usage instructions, or any other pertinent information related to your Gennoceutic Biotech project.
 
-For questions, feedback, or collaborations, please reach out to us at (tmukadaz@gmail.com).
-
----
-
-This README provides a brief overview of Dominant AI, its objectives, key features, and how to get started with the project. You can further expand it by adding installation instructions, usage examples, contribution guidelines, or any other relevant information specific to your Dominant AI project.
